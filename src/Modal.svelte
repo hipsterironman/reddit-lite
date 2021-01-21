@@ -62,13 +62,10 @@
         <div class="backdrop" />
         <div class="content-wrapper">
             <div class="content">
-                <p>I've been a member of Reddit since 2011.</p>
-                <p>There hasn't been a day since where I haven't visited it.</p>
                 <p>
-                    This site is an attempt to break that streak. Enter a subreddit and the top posts of the past 24 
+                    Enter a subreddit and the top posts of the past 24 
                     hours will load with links to both the content and the comments. This way, you can keep up with
-                    what's happening with a lesser chance of being sucked in. You can fade out visited links to see
-                    which you have left or unfade them to return later.
+                    what's happening with a lesser chance of being sucked in.
                 </p>
                 <p>Click anywhere to exit this box.</p>
             </div>
